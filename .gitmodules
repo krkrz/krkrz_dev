@@ -49,6 +49,6 @@
 [submodule "src/plugins/win32/sqlite3_xp3_vfs"]
 	path = src/plugins/win32/sqlite3_xp3_vfs
 	url = https://github.com/krkrz/sqlite3_xp3_vfs.git
-[submodule "src/tools/win32/tjs2doc"]
-	path = src/tools/win32/tjs2doc
+[submodule "src/tools/win32/debugger"]
+	path = src/tools/win32/debugger
 	url = https://github.com/krkrz/debugger.git
