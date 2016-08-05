@@ -1,0 +1,54 @@
+[submodule "src/plugins/win32/SamplePlugin"]
+	path = src/plugins/win32/SamplePlugin
+	url = https://github.com/krkrz/SamplePlugin.git
+[submodule "src/plugins/win32/opus"]
+	path = src/plugins/win32/opus
+	url = https://github.com/krkrz/wuopus.git
+[submodule "src/plugins/win32/resourceEdit"]
+	path = src/plugins/win32/resourceEdit
+	url = https://github.com/krkrz/resourceEdit.git
+[submodule "src/plugins/win32/theora"]
+	path = src/plugins/win32/theora
+	url = https://github.com/krkrz/krdstheora.git
+[submodule "src/plugins/win32/videoEncoder"]
+	path = src/plugins/win32/videoEncoder
+	url = https://github.com/krkrz/videoEncoder.git
+[submodule "src/plugins/win32/menu"]
+	path = src/plugins/win32/menu
+	url = https://github.com/krkrz/menu.git
+[submodule "src/plugins/win32/wic"]
+	path = src/plugins/win32/wic
+	url = https://github.com/krkrz/wic.git
+[submodule "script/Sample"]
+	path = script/Sample
+	url = https://github.com/krkrz/SampleScript.git
+[submodule "script/Krkr2Compat"]
+	path = script/Krkr2Compat
+	url = https://github.com/krkrz/Krkr2Compat.git
+[submodule "script/test"]
+	path = script/test
+	url = https://github.com/krkrz/test_scripts.git
+[submodule "script/KAG3_Ham"]
+	path = script/KAG3_Ham
+	url = https://github.com/krkrz/kag3_ham.git
+[submodule "script/KAG3"]
+	path = script/KAG3
+	url = https://github.com/krkrz/kag3.git
+[submodule "bin"]
+	path = bin
+	url = https://github.com/krkrz/release_binary.git
+[submodule "document/kirikiriz"]
+	path = document/kirikiriz
+	url = https://github.com/krkrz/krkrz-documents.git
+[submodule "document/misc_markdown"]
+	path = document/misc_markdown
+	url = https://github.com/krkrz/documents.git
+[submodule "src/tools/dotNet/tjs2doc"]
+	path = src/tools/dotNet/tjs2doc
+	url = https://github.com/krkrz/tjs2doc.git
+[submodule "src/plugins/win32/sqlite3_xp3_vfs"]
+	path = src/plugins/win32/sqlite3_xp3_vfs
+	url = https://github.com/krkrz/sqlite3_xp3_vfs.git
+[submodule "src/tools/win32/tjs2doc"]
+	path = src/tools/win32/tjs2doc
+	url = https://github.com/krkrz/debugger.git
