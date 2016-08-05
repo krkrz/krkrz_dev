@@ -52,3 +52,21 @@
 [submodule "src/tools/win32/debugger"]
 	path = src/tools/win32/debugger
 	url = https://github.com/krkrz/debugger.git
+[submodule "src/plugins/win32/fftgraph"]
+	path = src/plugins/win32/fftgraph
+	url = https://github.com/krkrz/fftgraph.git
+[submodule "src/plugins/win32/KAGParser"]
+	path = src/plugins/win32/KAGParser
+	url = https://github.com/krkrz/KAGParser.git
+[submodule "src/plugins/win32/qrcode"]
+	path = src/plugins/win32/qrcode
+	url = https://github.com/krkrz/qrcode.git
+[submodule "src/plugins/win32/registory"]
+	path = src/plugins/win32/registory
+	url = https://github.com/krkrz/registory.git
+[submodule "src/plugins/win32/wumsadp"]
+	path = src/plugins/win32/wumsadp
+	url = https://github.com/krkrz/wumsadp.git
+[submodule "src/plugins/win32/wuvorbis"]
+	path = src/plugins/win32/wuvorbis
+	url = https://github.com/krkrz/wuvorbis.git
