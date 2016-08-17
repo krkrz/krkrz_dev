@@ -70,6 +70,3 @@
 [submodule "src/plugins/win32/wuvorbis"]
 	path = src/plugins/win32/wuvorbis
 	url = https://github.com/krkrz/wuvorbis.git
-[submodule "src/core"]
-	path = src/core
-	url = https://github.com/krkrz/krkrz.git
