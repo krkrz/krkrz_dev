@@ -73,3 +73,126 @@
 [submodule "src/core"]
 	path = src/core
 	url = https://github.com/krkrz/krkrz.git
+[submodule "src/plugins/win32/KAGParserEx"]
+	path = src/plugins/win32/KAGParserEx
+	url = https://github.com/wtnbgo/KAGParserEx.git
+[submodule "src/plugins/win32/addFont"]
+	path = src/plugins/win32/addFont
+	url = https://github.com/wtnbgo/addFont.git
+[submodule "src/plugins/win32/binaryStream"]
+	path = src/plugins/win32/binaryStream
+	url = https://github.com/wtnbgo/binaryStream.git
+[submodule "src/plugins/win32/csvParser"]
+	path = src/plugins/win32/csvParser
+	url = https://github.com/wtnbgo/csvParser.git
+[submodule "src/plugins/win32/fpslimit"]
+	path = src/plugins/win32/fpslimit
+	url = https://github.com/wtnbgo/fpslimit.git
+[submodule "src/plugins/win32/fstat"]
+	path = src/plugins/win32/fstat
+	url = https://github.com/wtnbgo/fstat.git
+[submodule "src/plugins/win32/getSample"]
+	path = src/plugins/win32/getSample
+	url = https://github.com/wtnbgo/getSample.git
+[submodule "src/plugins/win32/httprequest"]
+	path = src/plugins/win32/httprequest
+	url = https://github.com/wtnbgo/httprequest.git
+[submodule "src/plugins/win32/httpserv"]
+	path = src/plugins/win32/httpserv
+	url = https://github.com/wtnbgo/httpserv.git
+[submodule "src/plugins/win32/json"]
+	path = src/plugins/win32/json
+	url = https://github.com/wtnbgo/json.git
+[submodule "src/plugins/win32/layerEx"]
+	path = src/plugins/win32/layerEx
+	url = https://github.com/wtnbgo/layerEx.git
+[submodule "src/plugins/win32/layerExAreaAverage"]
+	path = src/plugins/win32/layerExAreaAverage
+	url = https://github.com/wtnbgo/layerExAreaAverage.git
+[submodule "src/plugins/win32/layerExBTOA"]
+	path = src/plugins/win32/layerExBTOA
+	url = https://github.com/wtnbgo/layerExBTOA.git
+[submodule "src/plugins/win32/layerExDraw"]
+	path = src/plugins/win32/layerExDraw
+	url = https://github.com/wtnbgo/layerExDraw.git
+[submodule "src/plugins/win32/layerExImage"]
+	path = src/plugins/win32/layerExImage
+	url = https://github.com/wtnbgo/layerExImage.git
+[submodule "src/plugins/win32/layerExLongExposure"]
+	path = src/plugins/win32/layerExLongExposure
+	url = https://github.com/wtnbgo/layerExLongExposure.git
+[submodule "src/plugins/win32/layerExRaster"]
+	path = src/plugins/win32/layerExRaster
+	url = https://github.com/wtnbgo/layerExRaster.git
+[submodule "src/plugins/win32/layerExSave"]
+	path = src/plugins/win32/layerExSave
+	url = https://github.com/wtnbgo/layerExSave.git
+[submodule "src/plugins/win32/lineParser"]
+	path = src/plugins/win32/lineParser
+	url = https://github.com/wtnbgo/lineParser.git
+[submodule "src/plugins/win32/memfile"]
+	path = src/plugins/win32/memfile
+	url = https://github.com/wtnbgo/memfile.git
+[submodule "src/plugins/win32/messenger"]
+	path = src/plugins/win32/messenger
+	url = https://github.com/wtnbgo/messenger.git
+[submodule "src/plugins/win32/minizip"]
+	path = src/plugins/win32/minizip
+	url = https://github.com/wtnbgo/minizip.git
+[submodule "src/plugins/win32/msgreceiver"]
+	path = src/plugins/win32/msgreceiver
+	url = https://github.com/wtnbgo/msgreceiver.git
+[submodule "src/plugins/win32/ncbind"]
+	path = src/plugins/win32/ncbind
+	url = https://github.com/wtnbgo/ncbind.git
+[submodule "src/plugins/win32/process"]
+	path = src/plugins/win32/process
+	url = https://github.com/wtnbgo/process.git
+[submodule "src/plugins/win32/psdfile"]
+	path = src/plugins/win32/psdfile
+	url = https://github.com/wtnbgo/psdfile.git
+[submodule "src/plugins/win32/resourceRW"]
+	path = src/plugins/win32/resourceRW
+	url = https://github.com/wtnbgo/resourceRW.git
+[submodule "src/plugins/win32/saveStruct"]
+	path = src/plugins/win32/saveStruct
+	url = https://github.com/wtnbgo/saveStruct.git
+[submodule "src/plugins/win32/scriptsEx"]
+	path = src/plugins/win32/scriptsEx
+	url = https://github.com/wtnbgo/scriptsEx.git
+[submodule "src/plugins/win32/shellExecute"]
+	path = src/plugins/win32/shellExecute
+	url = https://github.com/wtnbgo/shellExecute.git
+[submodule "src/plugins/win32/shrinkCopy"]
+	path = src/plugins/win32/shrinkCopy
+	url = https://github.com/wtnbgo/shrinkCopy.git
+[submodule "src/plugins/win32/sigcheck"]
+	path = src/plugins/win32/sigcheck
+	url = https://github.com/wtnbgo/sigcheck.git
+[submodule "src/plugins/win32/stdio"]
+	path = src/plugins/win32/stdio
+	url = https://github.com/wtnbgo/stdio.git
+[submodule "src/plugins/win32/steam"]
+	path = src/plugins/win32/steam
+	url = https://github.com/wtnbgo/steam.git
+[submodule "src/plugins/win32/systemEx"]
+	path = src/plugins/win32/systemEx
+	url = https://github.com/wtnbgo/systemEx.git
+[submodule "src/plugins/win32/tftSave"]
+	path = src/plugins/win32/tftSave
+	url = https://github.com/wtnbgo/tftSave.git
+[submodule "src/plugins/win32/varfile"]
+	path = src/plugins/win32/varfile
+	url = https://github.com/wtnbgo/varfile.git
+[submodule "src/plugins/win32/win32dialog"]
+	path = src/plugins/win32/win32dialog
+	url = https://github.com/wtnbgo/win32dialog.git
+[submodule "src/plugins/win32/win32ole"]
+	path = src/plugins/win32/win32ole
+	url = https://github.com/wtnbgo/win32ole.git
+[submodule "src/plugins/win32/windowEx"]
+	path = src/plugins/win32/windowEx
+	url = https://github.com/wtnbgo/windowEx.git
+[submodule "src/plugins/win32/windowExProgress"]
+	path = src/plugins/win32/windowExProgress
+	url = https://github.com/wtnbgo/windowExProgress.git
